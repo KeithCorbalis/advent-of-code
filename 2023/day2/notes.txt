@@ -1,0 +1,4 @@
+The main difficulty here was parsing the line of text. I never really used AI assistance and felt this was a good opportunity to utilize. 
+Describing the task I needed got me nearly exactly what I needed, except I parsed it into a structure instead of an arbitrary map like ChatGPT did.
+
+Besides that, part 1 was a simple boundary check on the structure, and part 2 was a simple max-value check on the attempts.

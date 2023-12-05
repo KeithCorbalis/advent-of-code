@@ -1,0 +1,6 @@
+Part 1: 
+- easy, first try
+
+Part 2:
+- made modification to read carryover, but got messed up if word was in a suffix (e.g. "tthree", "lqeight")
+- fixed above, but got messed up if a word was within another number (e.g. "twone" became 2 instead of 1)
